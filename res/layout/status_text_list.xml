@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="#FFFFFF"
+  >
+  
+
+
+<TextView
+	android:id="@+id/appStatus"
+	android:text=""
+	android:layout_width="400px" 
+	android:layout_height="98px"
+	android:layout_toRightOf="@+id/appStatus"
+	android:gravity="center_vertical"
+	android:layout_marginLeft="100px"
+	android:textSize="18px"
+	android:textColor="#000000"    
+    >
+</TextView>
+
+
+
+
+  
+</RelativeLayout>
